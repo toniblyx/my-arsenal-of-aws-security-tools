@@ -72,6 +72,6 @@
 
 * [http://flaws.cloud/]() 
 
-**Others**
+**Others:**
 
 * [https://github.com/nagwww/s3-leaks]() - a list of some biggest leaks recorded 
