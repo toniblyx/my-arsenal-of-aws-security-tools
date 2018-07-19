@@ -27,7 +27,6 @@
 * **Krampus** (as Security Monkey complement) [https://github.com/sendgrid/krampus](https://github.com/sendgrid/krampus) 
 * **Cloud Inquisitor**: [https://github.com/RiotGames/cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor)
 * **CloudCustodian**: [https://github.com/capitalone/cloud-custodian](https://github.com/capitalone/cloud-custodian)
-* **Least Privilege**: [https://github.com/Netflix/repokid](https://github.com/Netflix/repokid)
 * **Disable keys after X days**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler)
 * **Repokid** Least Privilege: [https://github.com/Netflix/repokid](https://github.com/Netflix/repokid)
 * **Wazuh CloudTrail module**: [https://documentation.wazuh.com/current/amazon/index.html](https://documentation.wazuh.com/current/amazon/index.html)
