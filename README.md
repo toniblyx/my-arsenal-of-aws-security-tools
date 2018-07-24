@@ -11,6 +11,7 @@
 * **AWS-Inventory**: [https://github.com/nccgroup/aws-inventory](https://github.com/nccgroup/aws-inventory) - Make a inventory of all your resources across regions (Python)
 * **Resource Counter**: [https://github.com/disruptops/resource-counter](https://github.com/disruptops/resource-counter) - Counts number of resources in categories across regions
 * **ICE**: [https://github.com/Teevity/ice](https://github.com/Teevity/ice) - Ice provides insights from a usage and cost perspective, with high detail dashboards.
+* **SkyArk**: [https://github.com/cyberark/SkyArk](https://github.com/cyberark/SkyArk) - SkyArk provides advanced discovery and security assessment for the most privileged entities in the tested AWS.  
 
 **Offensive:**
 
