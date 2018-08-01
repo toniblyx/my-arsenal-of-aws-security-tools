@@ -68,7 +68,8 @@
 * [https://github.com/magisterquis/s3finder](https://github.com/magisterquis/s3finder) 
 * [https://github.com/abhn/S3Scan](https://github.com/abhn/S3Scan) 
 * [https://breachinsider.com/honey-buckets/](https://breachinsider.com/honey-buckets/) 
-* [https://www.buckhacker.com](https://www.buckhacker.com) | [https://www.thebuckhacker.com/](https://www.thebuckhacker.com/)    [Currently Offline]
+* [https://www.buckhacker.com](https://www.buckhacker.com) [Currently Offline]
+* [https://www.thebuckhacker.com/](https://www.thebuckhacker.com/)
 * [https://buckets.grayhatwarfare.com/](https://buckets.grayhatwarfare.com/)
 
 
