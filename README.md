@@ -34,6 +34,7 @@
 * **Wazuh CloudTrail module**: [https://documentation.wazuh.com/current/amazon/index.html](https://documentation.wazuh.com/current/amazon/index.html)
 * **Hammer**: [https://github.com/dowjones/hammer](https://github.com/dowjones/hammer)
 * **Streamalert**: [https://github.com/airbnb/streamalert](https://github.com/airbnb/streamalert)
+* **Billing Alerts CFN templates** [https://github.com/btkrausen/AWS/tree/master/CloudFormation/Billing%20Alerts](https://github.com/btkrausen/AWS/tree/master/CloudFormation/Billing%20Alerts)
 
 **DFIR:** 
 
