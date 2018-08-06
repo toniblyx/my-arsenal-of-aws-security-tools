@@ -1,0 +1,65 @@
+{
+  "variables": {
+    "aws_region": "us-east-1",
+    "ami_name": "My-AWS-Security-Arsenal-v0.1-{{timestamp}}",
+    "creator": "toni@blyx.com",
+    "instance_type": "t2.medium",
+    "source_ami_id": "ami-b70554c8"
+  },
+
+  "builders": [
+    {
+      "type": "amazon-ebs",
+      "region": "{{user `aws_region`}}",
+      "source_ami": "{{user `source_ami_id`}}",
+      "source_ami_filter": {
+        "filters": {
+          "architecture": "x86_64",
+          "name": "amzn2-ami-hvm-*",
+          "owner-id": "137112412989",
+          "root-device-type": "ebs",
+          "state": "available",
+          "virtualization-type": "hvm"
+        },
+        "most_recent": true
+      },
+      "instance_type": "{{user `instance_type`}}",
+      "launch_block_device_mappings": [
+        {
+          "device_name": "/dev/xvda",
+          "volume_type": "gp2",
+          "volume_size": 20,
+          "delete_on_termination": true
+        }
+      ],
+      "ssh_username": "ec2-user",
+      "ssh_pty": true,
+      "run_tags": {
+          "creator": "{{user `creator`}}"
+      },
+      "tags": {
+          "created": "{{timestamp}}"
+      },
+      "ami_name": "{{user `ami_name`}}",
+      "ami_description": "My AWS Security Arsenal AMI with AmazonLinux2 image - toni@blyx.com"
+    }
+  ],
+
+  "provisioners": [
+    {
+      "type": "shell",
+      "inline": ["mkdir -p /tmp/arsenal/"]
+    },
+    {
+      "type": "shell",
+      "script": "install-tools.sh"
+    }
+  ],
+  "post-processors": [
+    {
+      "type": "manifest",
+      "output": "manifest.json",
+      "strip_path": true
+    }
+  ]
+}
