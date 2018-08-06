@@ -17,8 +17,8 @@
 
 * **weirdALL**: [https://github.com/carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) - AWS Attack Library
 * **Pacu**: [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS penetration testing toolkit
-* **Cred Scanner**: [https://github.com/disruptops/cred_scanner](https://github.com/disruptops/cred_scanner) 
-* **AWS PWN**: [https://github.com/dagrz/aws_pwn](https://github.com/dagrz/aws_pwn) 
+* **Cred Scanner**: [https://github.com/disruptops/cred_scanner](https://github.com/disruptops/cred_scanner)
+* **AWS PWN**: [https://github.com/dagrz/aws_pwn](https://github.com/dagrz/aws_pwn)
 * **Cloudfrunt**: [https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt)
 * **Cloudjack**: [https://github.com/prevade/cloudjack](https://github.com/prevade/cloudjack)
 * **Nimbostratus**: [https://github.com/andresriancho/nimbostratus](https://github.com/andresriancho/nimbostratus)
@@ -26,7 +26,7 @@
 **Continuous Security Auditing:**
 
 * **Security Monkey**: [https://github.com/Netflix/security_monkey](https://github.com/Netflix/security_monkey)
-* **Krampus** (as Security Monkey complement) [https://github.com/sendgrid/krampus](https://github.com/sendgrid/krampus) 
+* **Krampus** (as Security Monkey complement) [https://github.com/sendgrid/krampus](https://github.com/sendgrid/krampus)
 * **Cloud Inquisitor**: [https://github.com/RiotGames/cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor)
 * **CloudCustodian**: [https://github.com/capitalone/cloud-custodian](https://github.com/capitalone/cloud-custodian)
 * **Disable keys after X days**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler)
@@ -36,7 +36,7 @@
 * **Streamalert**: [https://github.com/airbnb/streamalert](https://github.com/airbnb/streamalert)
 * **Billing Alerts CFN templates** [https://github.com/btkrausen/AWS/tree/master/CloudFormation/Billing%20Alerts](https://github.com/btkrausen/AWS/tree/master/CloudFormation/Billing%20Alerts)
 
-**DFIR:** 
+**DFIR:**
 
 * **AWS IR**: [https://github.com/ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir) - AWS specific Incident Response and Forensics Tool
 * **Margaritashotgun**: [https://github.com/ThreatResponse/margaritashotgun](https://github.com/ThreatResponse/margaritashotgun) - Linux memory remote acquisition tool
@@ -52,33 +52,34 @@
 
 **S3 Buckets Auditing:**
 
-* [https://github.com/Parasimpaticki/sandcastle](https://github.com/Parasimpaticki/sandcastle) 
+* [https://github.com/Parasimpaticki/sandcastle](https://github.com/Parasimpaticki/sandcastle)
 * [https://github.com/smiegles/mass3](https://github.com/smiegles/mass3)
 * [https://github.com/koenrh/s3enum](https://github.com/koenrh/s3enum)
-* [https://github.com/tomdev/teh_s3_bucketeers/](https://github.com/tomdev/teh_s3_bucketeers/) 
-* [https://github.com/eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream) 
-* [https://github.com/gwen001/s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) 
+* [https://github.com/tomdev/teh_s3_bucketeers/](https://github.com/tomdev/teh_s3_bucketeers/)
+* [https://github.com/eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream)
+* [https://github.com/gwen001/s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder)
 * [https://github.com/aaparmeggiani/s3find](https://github.com/aaparmeggiani/s3find)
-* [https://github.com/bbb31/slurp](https://github.com/bbb31/slurp) 
+* [https://github.com/bbb31/slurp](https://github.com/bbb31/slurp)
 * [https://github.com/random-robbie/slurp](https://github.com/random-robbie/slurp)
-* [https://github.com/kromtech/s3-inspector](https://github.com/kromtech/s3-inspector) 
-* [https://github.com/petermbenjamin/s3-fuzzer](https://github.com/petermbenjamin/s3-fuzzer) 
-* [https://github.com/jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) 
-* [https://github.com/bear/s3scan](https://github.com/bear/s3scan) 
-* [https://github.com/sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) 
-* [https://github.com/magisterquis/s3finder](https://github.com/magisterquis/s3finder) 
-* [https://github.com/abhn/S3Scan](https://github.com/abhn/S3Scan) 
-* [https://breachinsider.com/honey-buckets/](https://breachinsider.com/honey-buckets/) 
+* [https://github.com/kromtech/s3-inspector](https://github.com/kromtech/s3-inspector)
+* [https://github.com/petermbenjamin/s3-fuzzer](https://github.com/petermbenjamin/s3-fuzzer)
+* [https://github.com/jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump)
+* [https://github.com/bear/s3scan](https://github.com/bear/s3scan)
+* [https://github.com/sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
+* [https://github.com/magisterquis/s3finder](https://github.com/magisterquis/s3finder)
+* [https://github.com/abhn/S3Scan](https://github.com/abhn/S3Scan)
+* [https://breachinsider.com/honey-buckets/](https://breachinsider.com/honey-buckets/)
 * [https://www.buckhacker.com](https://www.buckhacker.com) [Currently Offline]
 * [https://www.thebuckhacker.com/](https://www.thebuckhacker.com/)
 * [https://buckets.grayhatwarfare.com/](https://buckets.grayhatwarfare.com/)
+* [https://github.com/whitfin/s3-meta](https://github.com/whitfin/s3-meta) 
 
 
 **Training:**
 
-* [http://flaws.cloud/](http://flaws.cloud/) 
-* [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) 
+* [http://flaws.cloud/](http://flaws.cloud/)
+* [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 
 **Others:**
 
-* [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded 
+* [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded
