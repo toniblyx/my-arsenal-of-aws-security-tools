@@ -2,7 +2,7 @@
 
 * **Scout2**: [https://github.com/nccgroup/Scout2](https://github.com/nccgroup/Scout2) - Security auditing tool for AWS environments (Python)
 * **Prowler**: [https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler) - CIS benchmarks and additional checks for security best practices in AWS (Shell Script)
-* **Scans**: [https://github.com/cloudsploit/scans](https://github.com/cloudsploit/scans) - AWS security scanning checks (NodeJS)
+* **CloudSploit**: [https://github.com/cloudsploit/scans](https://github.com/cloudsploit/scans) - AWS security scanning checks (NodeJS)
 * **CloudMapper**: [https://github.com/duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - helps you analyze your AWS environments (Python)
 * **CloudTracker**: [https://github.com/duo-labs/cloudtracker](https://github.com/duo-labs/cloudtracker) - helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies (Python)
 * **AWS Security Benchmarks**: [https://github.com/awslabs/aws-security-benchmark](https://github.com/awslabs/aws-security-benchmark) - scrips and templates guidance related to the AWS CIS Foundation framework (Python)
