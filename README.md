@@ -75,6 +75,7 @@
 * [https://www.thebuckhacker.com/](https://www.thebuckhacker.com/)
 * [https://buckets.grayhatwarfare.com/](https://buckets.grayhatwarfare.com/)
 * [https://github.com/whitfin/s3-meta](https://github.com/whitfin/s3-meta) 
+* [https://github.com/vr00n/Amazon-Web-Shenanigans/tree/master/S3PublicBucketCheck](https://github.com/vr00n/Amazon-Web-Shenanigans/tree/master/S3PublicBucketCheck)
 
 
 **Training:**
