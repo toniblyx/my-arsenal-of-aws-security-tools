@@ -49,6 +49,7 @@
 * **CFN NAG**: [https://github.com/stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) -  CloudFormation security test (Ruby)
 * **Git-secrets**: [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)
 * **Repository of sample Custom Rules for AWS Config**: [https://github.com/awslabs/aws-config-rules](https://github.com/awslabs/aws-config-rules)
+* **A secure cloud**: [https://asecure.cloud](https://asecure.cloud) - A repository of cutomizable AWS security configurations (Cloudformation and CLI templates)
 
 **S3 Buckets Auditing:**
 
