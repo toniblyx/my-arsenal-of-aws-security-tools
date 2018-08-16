@@ -84,6 +84,7 @@
 
 * [http://flaws.cloud/](http://flaws.cloud/)
 * [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+* [https://bitbucket.org/asecurityteam/spacecrab](https://bitbucket.org/asecurityteam/spacecrab)
 
 **Others:**
 
