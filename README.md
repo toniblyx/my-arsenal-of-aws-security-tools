@@ -24,6 +24,8 @@
 * **Cloudfrunt**: [https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt)
 * **Cloudjack**: [https://github.com/prevade/cloudjack](https://github.com/prevade/cloudjack)
 * **Nimbostratus**: [https://github.com/andresriancho/nimbostratus](https://github.com/andresriancho/nimbostratus)
+* **GitLeaks**[https://github.com/zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets
+* **TruffleHog**[https://github.com/dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 
 **Continuous Security Auditing:**
 
