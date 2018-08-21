@@ -13,7 +13,8 @@
 * **ICE**: [https://github.com/Teevity/ice](https://github.com/Teevity/ice) - Ice provides insights from a usage and cost perspective, with high detail dashboards.
 * **SkyArk**: [https://github.com/cyberark/SkyArk](https://github.com/cyberark/SkyArk) - SkyArk provides advanced discovery and security assessment for the most privileged entities in the tested AWS. 
 * **Trailblazer AWS**: [https://github.com/willbengtson/trailblazer-aws](https://github.com/willbengtson/trailblazer-aws) - Trailblazer AWS, determine what AWS API calls are logged by CloudTrail and what they are logged as. You can also use TrailBlazer as an attack simulation framework.
-* **Lunar**: [https://github.com/lateralblast/lunar](https://github.com/lateralblast/lunar) Security auditing tool based on several security frameworks (it does some AWS checks)
+* **Lunar**: [https://github.com/lateralblast/lunar](https://github.com/lateralblast/lunar) - Security auditing tool based on several security frameworks (it does some AWS checks)
+* **Cloud-reports**: [https://github.com/tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports
 
 **Offensive:**
 
