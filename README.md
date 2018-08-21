@@ -82,13 +82,18 @@
 * [https://github.com/whitfin/s3-meta](https://github.com/whitfin/s3-meta) 
 * [https://github.com/vr00n/Amazon-Web-Shenanigans/tree/master/S3PublicBucketCheck](https://github.com/vr00n/Amazon-Web-Shenanigans/tree/master/S3PublicBucketCheck)
 
-
 **Training:**
 
 * [http://flaws.cloud/](http://flaws.cloud/)
 * [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+
+
+**Honey-token:**
+
 * [https://bitbucket.org/asecurityteam/spacecrab](https://bitbucket.org/asecurityteam/spacecrab)
 * [https://breachinsider.com/honey-buckets/](https://breachinsider.com/honey-buckets/)
+* [https://github.com/0x4D31/honeyLambda](https://github.com/0x4D31/honeyLambda)
+* [https://github.com/thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker)
 
 **Others:**
 
