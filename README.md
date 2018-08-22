@@ -48,7 +48,7 @@
 * **LiMEaide**: [https://kd8bny.github.io/LiMEaide/](https://kd8bny.github.io/LiMEaide/) - Linux memory remote acquisition tool
 * **Diffy**: [https://github.com/Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - Triage tool used during cloud-centric security incidents
 * **AWS Security Automation**: [https://github.com/awslabs/aws-security-automation](https://github.com/awslabs/aws-security-automation) - AWS scripts and resources for DevSecOps and automated incident response
-
+* **GDPatrol**: [https://github.com/ansorren/GDPatrol](https://github.com/ansorren/GDPatrol) - Automated Incident Response based off AWS GuardDuty findings
 **Development Security:**
 
 * **CFN NAG**: [https://github.com/stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) -  CloudFormation security test (Ruby)
