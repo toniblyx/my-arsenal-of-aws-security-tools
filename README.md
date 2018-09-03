@@ -49,6 +49,7 @@
 * **Diffy**: [https://github.com/Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - Triage tool used during cloud-centric security incidents
 * **AWS Security Automation**: [https://github.com/awslabs/aws-security-automation](https://github.com/awslabs/aws-security-automation) - AWS scripts and resources for DevSecOps and automated incident response
 * **GDPatrol**: [https://github.com/ansorren/GDPatrol](https://github.com/ansorren/GDPatrol) - Automated Incident Response based off AWS GuardDuty findings
+
 **Development Security:**
 
 * **CFN NAG**: [https://github.com/stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) -  CloudFormation security test (Ruby)
@@ -56,6 +57,7 @@
 * **Repository of sample Custom Rules for AWS Config**: [https://github.com/awslabs/aws-config-rules](https://github.com/awslabs/aws-config-rules)
 * **asecure.cloud**: [https://asecure.cloud](https://asecure.cloud) - A repository of cutomizable AWS security configurations (Cloudformation and CLI templates)
 * **CFripper**: [https://github.com/Skyscanner/cfripper/](https://github.com/Skyscanner/cfripper/) - Lambda function to "rip apart" a CloudFormation template and check it for security compliance.
+* **Assume**: [https://github.com/SanderKnape/assume](https://github.com/SanderKnape/assume) - A simple CLI utility that makes it easier to switch between different AWS roles
 
 **S3 Buckets Auditing:**
 
