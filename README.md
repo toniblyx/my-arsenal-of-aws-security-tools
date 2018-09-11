@@ -65,6 +65,7 @@
 * [https://github.com/smiegles/mass3](https://github.com/smiegles/mass3)
 * [https://github.com/koenrh/s3enum](https://github.com/koenrh/s3enum)
 * [https://github.com/tomdev/teh_s3_bucketeers/](https://github.com/tomdev/teh_s3_bucketeers/)
+* [https://github.com/Quikko/BuQuikker](https://github.com/Quikko/BuQuikker) (multi threading for teh_s3_bucketeers)
 * [https://github.com/eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream)
 * [https://github.com/gwen001/s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder)
 * [https://github.com/aaparmeggiani/s3find](https://github.com/aaparmeggiani/s3find)
@@ -83,6 +84,10 @@
 * [https://buckets.grayhatwarfare.com/](https://buckets.grayhatwarfare.com/)
 * [https://github.com/whitfin/s3-meta](https://github.com/whitfin/s3-meta) 
 * [https://github.com/vr00n/Amazon-Web-Shenanigans/tree/master/S3PublicBucketCheck](https://github.com/vr00n/Amazon-Web-Shenanigans/tree/master/S3PublicBucketCheck)
+* [https://github.com/FishermansEnemy/bucket_finder](https://github.com/FishermansEnemy/bucket_finder)
+* [https://github.com/brianwarehime/inSp3ctor](https://github.com/brianwarehime/inSp3ctor)
+
+
 
 **Training:**
 
