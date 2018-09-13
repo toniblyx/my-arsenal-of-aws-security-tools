@@ -27,6 +27,7 @@
 * **Nimbostratus**: [https://github.com/andresriancho/nimbostratus](https://github.com/andresriancho/nimbostratus)
 * **GitLeaks**: [https://github.com/zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets
 * **TruffleHog**: [https://github.com/dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+* **DumpsterDiver**: [https://github.com/securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes, like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.
 
 **Continuous Security Auditing:**
 
