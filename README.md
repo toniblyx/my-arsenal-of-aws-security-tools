@@ -50,6 +50,7 @@
 * **Diffy**: [https://github.com/Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - Triage tool used during cloud-centric security incidents
 * **AWS Security Automation**: [https://github.com/awslabs/aws-security-automation](https://github.com/awslabs/aws-security-automation) - AWS scripts and resources for DevSecOps and automated incident response
 * **GDPatrol**: [https://github.com/ansorren/GDPatrol](https://github.com/ansorren/GDPatrol) - Automated Incident Response based off AWS GuardDuty findings
+* **AWSlog**: [https://github.com/jaksi/awslog](https://github.com/jaksi/awslog) - Show the history and changes between configuration versions of AWS resources using AWS Config 
 
 **Development Security:**
 
