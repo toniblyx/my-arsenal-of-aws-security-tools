@@ -90,6 +90,7 @@
 * [https://github.com/FishermansEnemy/bucket_finder](https://github.com/FishermansEnemy/bucket_finder)
 * [https://github.com/brianwarehime/inSp3ctor](https://github.com/brianwarehime/inSp3ctor)
 * [https://github.com/Atticuss/bucketcat](https://github.com/Atticuss/bucketcat)
+* [https://github.com/Ucnt/aws-s3-bruteforce](https://github.com/Ucnt/aws-s3-bruteforce)
 
 
 
