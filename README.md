@@ -60,6 +60,7 @@
 * **asecure.cloud**: [https://asecure.cloud](https://asecure.cloud) - A repository of cutomizable AWS security configurations (Cloudformation and CLI templates)
 * **CFripper**: [https://github.com/Skyscanner/cfripper/](https://github.com/Skyscanner/cfripper/) - Lambda function to "rip apart" a CloudFormation template and check it for security compliance.
 * **Assume**: [https://github.com/SanderKnape/assume](https://github.com/SanderKnape/assume) - A simple CLI utility that makes it easier to switch between different AWS roles
+* **Terrascan**: [https://github.com/cesar-rodriguez/terrascan](https://github.com/cesar-rodriguez/terrascan) - A collection of security and best practice tests for static code analysis of terraform templates using terraform_validate
 
 **S3 Buckets Auditing:**
 
