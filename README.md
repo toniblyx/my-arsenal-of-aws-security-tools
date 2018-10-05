@@ -99,6 +99,7 @@
 * [http://flaws.cloud/](http://flaws.cloud/) - flAWS challenge to learn through a series of levels about common mistakes and gotchas when using AWS
 * [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Vulnerable by Design AWS infrastructure setup tool
 * [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca) - Damn Vulnerable Cloud Application [more info](https://medium.com/poka-techblog/privilege-escalation-in-the-cloud-from-ssrf-to-global-account-administrator-fd943cf5a2f6)
+* [https://github.com/sonofagl1tch/AWSDetonationLab](https://github.com/sonofagl1tch/AWSDetonationLab) - Scripts and templates to generate some basic detections of the AWS security services
 
 
 **Honey-token:**
