@@ -57,5 +57,7 @@ TOOLS_URL_LIST=$(grep github.com README.md |awk -F '[' '{ print $2 }'| awk -F ']
 sudo mkdir -p /opt/arsenal
 cd /opt/arsenal
 for tool_url in $TOOLS_URL_LIST; do
-  sudo git clone $tool_url
+  sudo git clone $tool_url || \
+    sudo git clone $tool_url $(basename $tool_url)-$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 8 | head -n 1) || \
+    :
 done
