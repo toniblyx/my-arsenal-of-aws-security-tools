@@ -15,6 +15,7 @@
 * **Trailblazer AWS**: [https://github.com/willbengtson/trailblazer-aws](https://github.com/willbengtson/trailblazer-aws) - Trailblazer AWS, determine what AWS API calls are logged by CloudTrail and what they are logged as. You can also use TrailBlazer as an attack simulation framework.
 * **Lunar**: [https://github.com/lateralblast/lunar](https://github.com/lateralblast/lunar) - Security auditing tool based on several security frameworks (it does some AWS checks)
 * **Cloud-reports**: [https://github.com/tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports
+* **Pacbot**: [https://github.com/tmobile/pacbot](https://github.com/tmobile/pacbot) - Platform for continuous compliance monitoring, compliance reporting and security automation for the cloud
 
 **Offensive:**
 
