@@ -94,6 +94,7 @@
 * [https://github.com/brianwarehime/inSp3ctor](https://github.com/brianwarehime/inSp3ctor)
 * [https://github.com/Atticuss/bucketcat](https://github.com/Atticuss/bucketcat)
 * [https://github.com/Ucnt/aws-s3-bruteforce](https://github.com/Ucnt/aws-s3-bruteforce)
+* [https://github.com/nahamsec/lazys3](https://github.com/nahamsec/lazys3)
 
 
 
