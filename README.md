@@ -29,6 +29,8 @@
 * **GitLeaks**: [https://github.com/zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets
 * **TruffleHog**: [https://github.com/dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * **DumpsterDiver**: [https://github.com/securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes, like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.
+* **Mad-King**: [https://github.com/ThreatResponse/mad-king](https://github.com/ThreatResponse/mad-king) - Proof of Concept Zappa Based AWS Persistence and Attack Platform
+* **Cloud-Nuke**: [https://github.com/gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 
 **Continuous Security Auditing:**
 
