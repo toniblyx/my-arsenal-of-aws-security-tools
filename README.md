@@ -16,6 +16,7 @@
 * **Lunar**: [https://github.com/lateralblast/lunar](https://github.com/lateralblast/lunar) - Security auditing tool based on several security frameworks (it does some AWS checks)
 * **Cloud-reports**: [https://github.com/tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports
 * **Pacbot**: [https://github.com/tmobile/pacbot](https://github.com/tmobile/pacbot) - Platform for continuous compliance monitoring, compliance reporting and security automation for the cloud
+* **cs-suite**: [https://github.com/SecurityFTW/cs-suite](https://github.com/SecurityFTW/cs-suite) - Integrates tools like Scout2 and Prowler among others 
 
 **Offensive:**
 
