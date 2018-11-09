@@ -1,6 +1,6 @@
 **Defensive (Hardening, Security Assessment, Inventory)**
 
-* **Scout2**: [https://github.com/nccgroup/Scout2](https://github.com/nccgroup/Scout2) - Security auditing tool for AWS environments (Python)
+* **ScoutSuite**: [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security auditing tool for AWS, Google Cloud and Azure environments (Python)
 * **Prowler**: [https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler) - CIS benchmarks and additional checks for security best practices in AWS (Shell Script)
 * **CloudSploit**: [https://github.com/cloudsploit/scans](https://github.com/cloudsploit/scans) - AWS security scanning checks (NodeJS)
 * **CloudMapper**: [https://github.com/duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - helps you analyze your AWS environments (Python)
