@@ -32,6 +32,7 @@
 * **DumpsterDiver**: [https://github.com/securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes, like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.
 * **Mad-King**: [https://github.com/ThreatResponse/mad-king](https://github.com/ThreatResponse/mad-king) - Proof of Concept Zappa Based AWS Persistence and Attack Platform
 * **Cloud-Nuke**: [https://github.com/gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
+* **MozDef: The Mozilla Defense Platform** [https://github.com/mozilla/MozDef] (https://github.com/mozilla/MozDef) - The Mozilla Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers.
 
 **Continuous Security Auditing:**
 
@@ -49,6 +50,7 @@
 **DFIR:**
 
 * **AWS IR**: [https://github.com/ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir) - AWS specific Incident Response and Forensics Tool
+* **Threat Response**: [https://threatresponse.cloud/](https://threatresponse.cloud/) - Open Source Incident Response Toolkit
 * **Margaritashotgun**: [https://github.com/ThreatResponse/margaritashotgun](https://github.com/ThreatResponse/margaritashotgun) - Linux memory remote acquisition tool
 * **LiMEaide**: [https://kd8bny.github.io/LiMEaide/](https://kd8bny.github.io/LiMEaide/) - Linux memory remote acquisition tool
 * **Diffy**: [https://github.com/Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - Triage tool used during cloud-centric security incidents
