@@ -50,7 +50,6 @@
 **DFIR:**
 
 * **AWS IR**: [https://github.com/ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir) - AWS specific Incident Response and Forensics Tool
-* **Threat Response**: [https://threatresponse.cloud/](https://threatresponse.cloud/) - Open Source Incident Response Toolkit
 * **Margaritashotgun**: [https://github.com/ThreatResponse/margaritashotgun](https://github.com/ThreatResponse/margaritashotgun) - Linux memory remote acquisition tool
 * **LiMEaide**: [https://kd8bny.github.io/LiMEaide/](https://kd8bny.github.io/LiMEaide/) - Linux memory remote acquisition tool
 * **Diffy**: [https://github.com/Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - Triage tool used during cloud-centric security incidents
