@@ -17,6 +17,7 @@
 * **Cloud-reports**: [https://github.com/tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports
 * **Pacbot**: [https://github.com/tmobile/pacbot](https://github.com/tmobile/pacbot) - Platform for continuous compliance monitoring, compliance reporting and security automation for the cloud
 * **cs-suite**: [https://github.com/SecurityFTW/cs-suite](https://github.com/SecurityFTW/cs-suite) - Integrates tools like Scout2 and Prowler among others 
+* **aws-key-disabler**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler) - A small lambda script that will disable access keys older than a given amount of days
 
 **Offensive:**
 
@@ -101,6 +102,7 @@
 * [https://github.com/Ucnt/aws-s3-bruteforce](https://github.com/Ucnt/aws-s3-bruteforce)
 * [https://github.com/nahamsec/lazys3](https://github.com/nahamsec/lazys3)
 * [https://github.com/securing/BucketScanner](https://github.com/securing/BucketScanner)
+* [https://digi.ninja/projects/bucket_finder.php](https://digi.ninja/projects/bucket_finder.php)
 
 
 
