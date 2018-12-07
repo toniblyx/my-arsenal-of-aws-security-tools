@@ -32,6 +32,7 @@
 * **DumpsterDiver**: [https://github.com/securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes, like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.
 * **Mad-King**: [https://github.com/ThreatResponse/mad-king](https://github.com/ThreatResponse/mad-king) - Proof of Concept Zappa Based AWS Persistence and Attack Platform
 * **Cloud-Nuke**: [https://github.com/gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
+* **MozDef: The Mozilla Defense Platform** [https://github.com/mozilla/MozDef] (https://github.com/mozilla/MozDef) - The Mozilla Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers.
 
 **Continuous Security Auditing:**
 
