@@ -18,6 +18,7 @@
 * **Pacbot**: [https://github.com/tmobile/pacbot](https://github.com/tmobile/pacbot) - Platform for continuous compliance monitoring, compliance reporting and security automation for the cloud
 * **cs-suite**: [https://github.com/SecurityFTW/cs-suite](https://github.com/SecurityFTW/cs-suite) - Integrates tools like Scout2 and Prowler among others 
 * **aws-key-disabler**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler) - A small lambda script that will disable access keys older than a given amount of days
+* **Antiope**: [https://github.com/turnerlabs/antiope/](https://github.com/turnerlabs/antiope/) - AWS Inventory and Compliance Framework
 
 **Offensive:**
 
