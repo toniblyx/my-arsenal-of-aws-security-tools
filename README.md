@@ -66,7 +66,6 @@
 
 **Development Security:**
 
-* **IAM Least-Privileged Role Generator**: [https://github.com/puresec/serverless-puresec-cli] - A Serverless framework plugin that statically analyzes AWS Lambda function code and automagically generates least-privileged IAM roles.
 * **CFN NAG**: [https://github.com/stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) -  CloudFormation security test (Ruby)
 * **Git-secrets**: [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)
 * **Repository of sample Custom Rules for AWS Config**: [https://github.com/awslabs/aws-config-rules](https://github.com/awslabs/aws-config-rules)
@@ -75,6 +74,7 @@
 * **Assume**: [https://github.com/SanderKnape/assume](https://github.com/SanderKnape/assume) - A simple CLI utility that makes it easier to switch between different AWS roles
 * **Terrascan**: [https://github.com/cesar-rodriguez/terrascan](https://github.com/cesar-rodriguez/terrascan) - A collection of security and best practice tests for static code analysis of terraform templates using terraform_validate
 * **pytest-services**: [https://github.com/mozilla-services/pytest-services](https://github.com/mozilla-services/pytest-services) - Unit testing framework for test driven security of AWS configurations and more
+* **IAM Least-Privileged Role Generator**: [https://github.com/puresec/serverless-puresec-cli] - A Serverless framework plugin that statically analyzes AWS Lambda function code and automagically generates least-privileged IAM roles.
 
 **S3 Buckets Auditing:**
 
