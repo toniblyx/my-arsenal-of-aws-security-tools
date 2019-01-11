@@ -19,6 +19,7 @@
 * **cs-suite**: [https://github.com/SecurityFTW/cs-suite](https://github.com/SecurityFTW/cs-suite) - Integrates tools like Scout2 and Prowler among others 
 * **aws-key-disabler**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler) - A small lambda script that will disable access keys older than a given amount of days
 * **Antiope**: [https://github.com/turnerlabs/antiope/](https://github.com/turnerlabs/antiope/) - AWS Inventory and Compliance Framework
+* **FunctionShield**: [https://www.puresec.io/function-shield] A free AWS Lambda security library for developers, providing runtime protection such as: outbound network blocking, disable shell processes, /tmp/ disk I/O operations and prevents leakage of the handler's source code.
 
 **Offensive:**
 
@@ -36,6 +37,7 @@
 * **Cloud-Nuke**: [https://github.com/gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 * **MozDef: The Mozilla Defense Platform** [https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef) - The Mozilla Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers.
 * **Lambdashell**: [http://www.lambdashell.com/](http://www.lambdashell.com/) - This is a simple AWS lambda function that does a straight exec. Essentially giving you a shell directly in my AWS infrastructure to just run your commands.
+* **Lambda-Proxy**: [https://github.com/puresec/lambda-proxy/] - A bridge between SQLMap and AWS Lambda, which lets you use SQLMap to natively test AWS Lambda functions for SQL Injection vulnerabilities.
 
 **Continuous Security Auditing:**
 
@@ -72,6 +74,7 @@
 * **Assume**: [https://github.com/SanderKnape/assume](https://github.com/SanderKnape/assume) - A simple CLI utility that makes it easier to switch between different AWS roles
 * **Terrascan**: [https://github.com/cesar-rodriguez/terrascan](https://github.com/cesar-rodriguez/terrascan) - A collection of security and best practice tests for static code analysis of terraform templates using terraform_validate
 * **pytest-services**: [https://github.com/mozilla-services/pytest-services](https://github.com/mozilla-services/pytest-services) - Unit testing framework for test driven security of AWS configurations and more
+* **IAM Least-Privileged Role Generator**: [https://github.com/puresec/serverless-puresec-cli] - A Serverless framework plugin that statically analyzes AWS Lambda function code and automagically generates least-privileged IAM roles.
 
 **S3 Buckets Auditing:**
 
@@ -106,8 +109,6 @@
 * [https://github.com/securing/BucketScanner](https://github.com/securing/BucketScanner)
 * [https://digi.ninja/projects/bucket_finder.php](https://digi.ninja/projects/bucket_finder.php)
 
-
-
 **Training:**
 
 * [http://flaws.cloud/](http://flaws.cloud/) - flAWS challenge to learn through a series of levels about common mistakes and gotchas when using AWS
@@ -115,7 +116,7 @@
 * [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Vulnerable by Design AWS infrastructure setup tool
 * [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca) - Damn Vulnerable Cloud Application [more info](https://medium.com/poka-techblog/privilege-escalation-in-the-cloud-from-ssrf-to-global-account-administrator-fd943cf5a2f6)
 * [https://github.com/sonofagl1tch/AWSDetonationLab](https://github.com/sonofagl1tch/AWSDetonationLab) - Scripts and templates to generate some basic detections of the AWS security services
-
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP for educational purposes. Single click installation through the AWS Serverless Application Repository.
 
 **Honey-token:**
 
