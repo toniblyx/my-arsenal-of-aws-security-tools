@@ -1,5 +1,6 @@
 **Defensive (Hardening, Security Assessment, Inventory)**
 
+* **FunctionShield**: [https://www.puresec.io/function-shield] A free AWS Lambda security library for developers, providing runtime protection such as: outbound network blocking, disable shell processes, /tmp/ disk I/O operations and prevents leakage of the handler's source code.
 * **ScoutSuite**: [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security auditing tool for AWS, Google Cloud and Azure environments (Python)
 * **Prowler**: [https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler) - CIS benchmarks and additional checks for security best practices in AWS (Shell Script)
 * **CloudSploit**: [https://github.com/cloudsploit/scans](https://github.com/cloudsploit/scans) - AWS security scanning checks (NodeJS)
@@ -36,6 +37,8 @@
 * **Cloud-Nuke**: [https://github.com/gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 * **MozDef: The Mozilla Defense Platform** [https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef) - The Mozilla Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers.
 * **Lambdashell**: [http://www.lambdashell.com/](http://www.lambdashell.com/) - This is a simple AWS lambda function that does a straight exec. Essentially giving you a shell directly in my AWS infrastructure to just run your commands.
+* **Lambda-Proxy**: [https://github.com/puresec/lambda-proxy/] - A bridge between SQLMap and AWS Lambda, which lets you use SQLMap to natively test AWS Lambda functions for SQL Injection vulnerabilities.
+
 
 **Continuous Security Auditing:**
 
@@ -64,6 +67,7 @@
 
 **Development Security:**
 
+* **IAM Least-Privileged Role Generator**: [https://github.com/puresec/serverless-puresec-cli] - A Serverless framework plugin that statically analyzes AWS Lambda function code and automagically generates least-privileged IAM roles.
 * **CFN NAG**: [https://github.com/stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) -  CloudFormation security test (Ruby)
 * **Git-secrets**: [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)
 * **Repository of sample Custom Rules for AWS Config**: [https://github.com/awslabs/aws-config-rules](https://github.com/awslabs/aws-config-rules)
@@ -106,16 +110,14 @@
 * [https://github.com/securing/BucketScanner](https://github.com/securing/BucketScanner)
 * [https://digi.ninja/projects/bucket_finder.php](https://digi.ninja/projects/bucket_finder.php)
 
-
-
 **Training:**
 
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP for educational purposes. Single click installation through the AWS Serverless Application Repository.
 * [http://flaws.cloud/](http://flaws.cloud/) - flAWS challenge to learn through a series of levels about common mistakes and gotchas when using AWS
 * [flaws2.cloud](flaws2.cloud) - flAWS 2 has two paths this time: Attacker and Defender! In the Attacker path, you'll exploit your way through misconfigurations in serverless (Lambda) and containers (ECS Fargate). In the Defender path, that target is now viewed as the victim and you'll work as an incident responder for that same app, understanding how an attack happened. 
 * [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Vulnerable by Design AWS infrastructure setup tool
 * [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca) - Damn Vulnerable Cloud Application [more info](https://medium.com/poka-techblog/privilege-escalation-in-the-cloud-from-ssrf-to-global-account-administrator-fd943cf5a2f6)
 * [https://github.com/sonofagl1tch/AWSDetonationLab](https://github.com/sonofagl1tch/AWSDetonationLab) - Scripts and templates to generate some basic detections of the AWS security services
-
 
 **Honey-token:**
 
