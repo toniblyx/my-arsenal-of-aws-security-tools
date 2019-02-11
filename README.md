@@ -20,7 +20,8 @@
 * **aws-key-disabler**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler) - A small lambda script that will disable access keys older than a given amount of days
 * **Antiope**: [https://github.com/turnerlabs/antiope/](https://github.com/turnerlabs/antiope/) - AWS Inventory and Compliance Framework
 * **FunctionShield**: [https://www.puresec.io/function-shield] A free AWS Lambda security library for developers, providing runtime protection such as: outbound network blocking, disable shell processes, /tmp/ disk I/O operations and prevents leakage of the handler's source code.
-
+* **Cloud Reports** [https://github.com/tensult/cloud-reports] Scans your AWS cloud resources and generates reports, includes security best practices.
+ 
 **Offensive:**
 
 * **weirdALL**: [https://github.com/carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) - AWS Attack Library
