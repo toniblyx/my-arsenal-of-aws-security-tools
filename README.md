@@ -110,6 +110,7 @@
 * [https://github.com/nahamsec/lazys3](https://github.com/nahamsec/lazys3)
 * [https://github.com/securing/BucketScanner](https://github.com/securing/BucketScanner)
 * [https://digi.ninja/projects/bucket_finder.php](https://digi.ninja/projects/bucket_finder.php)
+* [https://github.com/VirtueSecurity/aws-extender-cli](https://github.com/VirtueSecurity/aws-extender-cli)
 
 **Training:**
 
