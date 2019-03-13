@@ -19,8 +19,9 @@
 * **cs-suite**: [https://github.com/SecurityFTW/cs-suite](https://github.com/SecurityFTW/cs-suite) - Integrates tools like Scout2 and Prowler among others 
 * **aws-key-disabler**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler) - A small lambda script that will disable access keys older than a given amount of days
 * **Antiope**: [https://github.com/turnerlabs/antiope/](https://github.com/turnerlabs/antiope/) - AWS Inventory and Compliance Framework
-* **FunctionShield**: [https://www.puresec.io/function-shield] A free AWS Lambda security library for developers, providing runtime protection such as: outbound network blocking, disable shell processes, /tmp/ disk I/O operations and prevents leakage of the handler's source code.
-* **Cloud Reports** [https://github.com/tensult/cloud-reports] Scans your AWS cloud resources and generates reports, includes security best practices.
+* **FunctionShield**: [https://www.puresec.io/function-shield](https://www.puresec.io/function-shield) A free AWS Lambda security library for developers, providing runtime protection such as: outbound network blocking, disable shell processes, /tmp/ disk I/O operations and prevents leakage of the handler's source code.
+* **Cloud Reports**: [https://github.com/tensult/cloud-reports](https://github.com/tensult/cloud-reports) Scans your AWS cloud resources and generates reports, includes security best practices.
+* **Terraform AWS Secure Baseline**: [https://github.com/nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations. 
  
 **Offensive:**
 
