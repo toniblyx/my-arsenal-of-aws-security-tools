@@ -75,6 +75,7 @@
 * **CFripper**: [https://github.com/Skyscanner/cfripper/](https://github.com/Skyscanner/cfripper/) - Lambda function to "rip apart" a CloudFormation template and check it for security compliance.
 * **Assume**: [https://github.com/SanderKnape/assume](https://github.com/SanderKnape/assume) - A simple CLI utility that makes it easier to switch between different AWS roles
 * **Terrascan**: [https://github.com/cesar-rodriguez/terrascan](https://github.com/cesar-rodriguez/terrascan) - A collection of security and best practice tests for static code analysis of terraform templates using terraform_validate
+* **tfsec**: [https://github.com/liamg/tfsec](https://github.com/liamg/tfsec) - Provides static analysis of your terraform templates to spot potential security issues
 * **pytest-services**: [https://github.com/mozilla-services/pytest-services](https://github.com/mozilla-services/pytest-services) - Unit testing framework for test driven security of AWS configurations and more
 * **IAM Least-Privileged Role Generator**: [https://github.com/puresec/serverless-puresec-cli](https://github.com/puresec/serverless-puresec-cli) - A Serverless framework plugin that statically analyzes AWS Lambda function code and automagically generates least-privileged IAM roles.
 * **AWS Vault**: [https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments 
