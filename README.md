@@ -22,6 +22,7 @@
 * **FunctionShield**: [https://www.puresec.io/function-shield](https://www.puresec.io/function-shield) A free AWS Lambda security library for developers, providing runtime protection such as: outbound network blocking, disable shell processes, /tmp/ disk I/O operations and prevents leakage of the handler's source code.
 * **Cloud Reports**: [https://github.com/tensult/cloud-reports](https://github.com/tensult/cloud-reports) Scans your AWS cloud resources and generates reports, includes security best practices.
 * **Terraform AWS Secure Baseline**: [https://github.com/nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations. 
+* **Cartography**: [https://github.com/lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database. 
  
 **Offensive:**
 
