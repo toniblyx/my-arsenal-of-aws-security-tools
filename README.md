@@ -82,6 +82,7 @@
 * **IAM Least-Privileged Role Generator**: [https://github.com/puresec/serverless-puresec-cli](https://github.com/puresec/serverless-puresec-cli) - A Serverless framework plugin that statically analyzes AWS Lambda function code and automagically generates least-privileged IAM roles.
 * **AWS Vault**: [https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments 
 * **AWS Service Control Policies**: [https://github.com/jchrisfarris/aws-service-control-policies](https://github.com/jchrisfarris/aws-service-control-policies) - Collection of semi-useful Service Control Policies and scripts to manage them 
+* **Half-Life**: [https://github.com/Skyscanner/halflife](https://github.com/Skyscanner/halflife) - AWS Lambda auditing tool that provides a meaningful overview in terms of statistical analysis, AWS service dependencies and configuration checks from the security perspective
 
 **S3 Buckets Auditing:**
 
