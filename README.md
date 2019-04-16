@@ -137,4 +137,4 @@
 **Others:**
 
 * [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded
-* **Model Risk AWS** [https://magoo.github.io/model-risk-aws/](https://magoo.github.io/model-risk-aws/) - POC about the risk of an incicent on an AWS account in a year time.
+* **Model Risk AWS** [https://magoo.github.io/model-risk-aws/](https://magoo.github.io/model-risk-aws/) - POC about probabilistic risk model for AWS
