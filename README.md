@@ -55,6 +55,7 @@
 * **Hammer**: [https://github.com/dowjones/hammer](https://github.com/dowjones/hammer)
 * **Streamalert**: [https://github.com/airbnb/streamalert](https://github.com/airbnb/streamalert)
 * **Billing Alerts CFN templates**: [https://github.com/btkrausen/AWS/tree/master/CloudFormation/Billing%20Alerts](https://github.com/btkrausen/AWS/tree/master/CloudFormation/Billing%20Alerts)
+* **Watchmen**: [https://github.com/iagcl/watchmen](https://github.com/iagcl/watchmen) - AWS account compliance using centrally managed Config Rules
 
 **DFIR:**
 
