@@ -139,3 +139,4 @@
 
 * [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded
 * **Model Risk AWS** [https://magoo.github.io/model-risk-aws/](https://magoo.github.io/model-risk-aws/) - POC about probabilistic risk model for AWS
+* **asecure.cloud** [https://asecure.cloud/](https://asecure.cloud/) - a great place for security resources regarding AWS Security.
