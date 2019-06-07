@@ -26,6 +26,7 @@
 * **TrailScraper**: [https://github.com/flosell/trailscraper](https://github.com/flosell/trailscraper) - A command-line tool to get valuable information out of AWS CloudTrail
 * **LambdaGuard**: [https://github.com/Skyscanner/LambdaGuard](https://github.com/Skyscanner/LambdaGuard) - An AWS Lambda auditing tool designed to create asset visibility and provide actionable results.
 * **Komiser**: [https://github.com/mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector, nalyze and manage cloud cost, usage, security, and governance in one place.
+* **Perimeterator**: [https://github.com/darkarnium/perimeterator](https://github.com/darkarnium/perimeterator) - AWS perimeter monitoring: Periodically scan internet facing AWS resources to detect misconfigured services
  
 **Offensive:**
 
