@@ -27,7 +27,8 @@
 * **LambdaGuard**: [https://github.com/Skyscanner/LambdaGuard](https://github.com/Skyscanner/LambdaGuard) - An AWS Lambda auditing tool designed to create asset visibility and provide actionable results.
 * **Komiser**: [https://github.com/mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector, nalyze and manage cloud cost, usage, security, and governance in one place.
 * **Perimeterator**: [https://github.com/darkarnium/perimeterator](https://github.com/darkarnium/perimeterator) - AWS perimeter monitoring: Periodically scan internet facing AWS resources to detect misconfigured services
- 
+* **OPS**: [https://github.com/nanovms/ops](https://github.com/nanovms/ops) - Deploy ordinary linux applications as unikernels - single process, no shell, no usernames/passwords, way less attack surface.
+
 **Offensive:**
 
 * **weirdALL**: [https://github.com/carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) - AWS Attack Library
