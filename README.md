@@ -47,6 +47,7 @@
 * **Lambda-Proxy**: [https://github.com/puresec/lambda-proxy/] - A bridge between SQLMap and AWS Lambda, which lets you use SQLMap to natively test AWS Lambda functions for SQL Injection vulnerabilities.
 * **CloudCopy**: [https://github.com/Static-Flow/CloudCopy](https://github.com/Static-Flow/CloudCopy) - Cloud version of the Shadow Copy attack against domain controllers running in AWS using only the EC2:CreateSnapshot permission
 * **enumerate-iam**: [https://github.com/andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
+* **Barq**: [https://github.com/Voulnet/barq](https://github.com/Voulnet/barq) - A post-exploitation framework that allows you to easily perform attacks on a running AWS infrastructure
 
 **Continuous Security Auditing:**
 
