@@ -28,6 +28,7 @@
 * **Komiser**: [https://github.com/mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector, nalyze and manage cloud cost, usage, security, and governance in one place.
 * **Perimeterator**: [https://github.com/darkarnium/perimeterator](https://github.com/darkarnium/perimeterator) - AWS perimeter monitoring: Periodically scan internet facing AWS resources to detect misconfigured services
 * **PolicySentry**: [https://github.com/salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator, auditor, and analysis database.
+* **Zeus**: [https://github.com/DenizParlak/Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing & Hardening Tool 
  
 **Offensive:**
 
