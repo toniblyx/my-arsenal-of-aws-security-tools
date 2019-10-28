@@ -76,6 +76,7 @@
 * **AWSlog**: [https://github.com/jaksi/awslog](https://github.com/jaksi/awslog) - Show the history and changes between configuration versions of AWS resources using AWS Config 
 * **AWS_Responder** [https://github.com/prolsen/aws_responder](https://github.com/prolsen/aws_responder) - AWS Digital Forensic and Incident Response (DFIR) Response Python Scripts
 * **SSM-Acquire**: [https://github.com/mozilla/ssm-acquire](https://github.com/mozilla/ssm-acquire) - A python module for orchestrating content acquisitions and analysis via Amazon SSM
+* **cloudtrail-partitioner**: [https://github.com/duo-labs/cloudtrail-partitioner](https://github.com/duo-labs/cloudtrail-partitioner) - This project sets up partitioned Athena tables for your CloudTrail logs and updates the partitions nightly. Makes CloudTrail logs queries easier.
 
 **Development Security:**
 
