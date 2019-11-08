@@ -94,6 +94,7 @@
 * **AWS Service Control Policies**: [https://github.com/jchrisfarris/aws-service-control-policies](https://github.com/jchrisfarris/aws-service-control-policies) - Collection of semi-useful Service Control Policies and scripts to manage them 
 * **Half-Life**: [https://github.com/Skyscanner/halflife](https://github.com/Skyscanner/halflife) - AWS Lambda auditing tool that provides a meaningful overview in terms of statistical analysis, AWS service dependencies and configuration checks from the security perspective
 * **Terraform-compliance**: [https://github.com/eerkunt/terraform-compliance](https://github.com/eerkunt/terraform-compliance) - A lightweight, security focused, BDD test framework against terraform (with helpful code for AWS)
+* **Get a List of AWS Managed Policies**: [https://github.com/RyPeck/aws_managed_policies](https://github.com/RyPeck/aws_managed_policies) - a way to get a list of all AWS managed policies
 
 **S3 Buckets Auditing:**
 
