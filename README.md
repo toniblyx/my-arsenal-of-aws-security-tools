@@ -96,6 +96,7 @@
 * **Terraform-compliance**: [https://github.com/eerkunt/terraform-compliance](https://github.com/eerkunt/terraform-compliance) - A lightweight, security focused, BDD test framework against terraform (with helpful code for AWS)
 * **Get a List of AWS Managed Policies**: [https://github.com/RyPeck/aws_managed_policies](https://github.com/RyPeck/aws_managed_policies) - a way to get a list of all AWS managed policies
 * **Parliament**: [https://github.com/duo-labs/parliament/](https://github.com/duo-labs/parliament/) - AWS IAM linting library 
+* **AWS-ComplianceMachineDontStop**: [https://github.com/jonrau1/AWS-ComplianceMachineDontStop](https://github.com/jonrau1/AWS-ComplianceMachineDontStop) - Proof of Value Terraform Scripts to utilize Amazon Web Services (AWS) Security, Identity & Compliance Services to Support your AWS Account Security Posture
 
 **S3 Buckets Auditing:**
 
