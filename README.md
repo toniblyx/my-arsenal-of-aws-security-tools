@@ -30,6 +30,9 @@
 * **PolicySentry**: [https://github.com/salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator, auditor, and analysis database.
 * **Zeus**: [https://github.com/DenizParlak/Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing & Hardening Tool 
 * **janiko71 AWS-inventory**: [https://github.com/janiko71/aws-inventory](https://github.com/janiko71/aws-inventory) - Python script for AWS resources inventory
+* **awspx**: [https://github.com/fsecurelabs/awspx](https://github.com/fsecurelabs/awspx) - 
+A graph-based tool for visualizing effective access and resource relationships in AWS environments
+
  
 **Offensive:**
 
