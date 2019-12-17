@@ -57,8 +57,8 @@ A graph-based tool for visualizing effective access and resource relationships i
 
 **Continuous Security Auditing:**
 
-* **Security Monkey**: [https://github.com/Netflix/security_monkey](https://github.com/Netflix/security_monkey)
-* **Krampus** (as Security Monkey complement) [https://github.com/sendgrid/krampus](https://github.com/sendgrid/krampus)
+* **Security Monkey**: (DEPRECATED) [https://github.com/Netflix/security_monkey](https://github.com/Netflix/security_monkey)
+* **Krampus** (as Security Monkey complement, DEPRECATED) [https://github.com/sendgrid/krampus](https://github.com/sendgrid/krampus)
 * **Cloud Inquisitor**: [https://github.com/RiotGames/cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor)
 * **CloudCustodian**: [https://github.com/capitalone/cloud-custodian](https://github.com/capitalone/cloud-custodian)
 * **Disable keys after X days**: [https://github.com/te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler)
