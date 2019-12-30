@@ -1,1 +1,1 @@
-Prowler;toniblyx/prowler;[https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler);CIS benchmarks and additional checks for security best practices in AWS (bash and python components)
+fargate-ir;andrewkrug/fargate-ir;Proof of concept incident response demo using SSM and AWS Fargate.
