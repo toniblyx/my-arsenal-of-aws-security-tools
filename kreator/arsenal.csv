@@ -1,2 +1,1 @@
-aws-security-toolbox;z0ph/aws-security-toolbox;AWS Security Tools (AST) in a simple Docker container.
-aws-security-viz;anaynayak/aws-security-viz;A tool to visualize aws security groups.
+Regula;fugue/regula;Regula checks Terraform for AWS security and compliance using Open Policy Agent/Rego
