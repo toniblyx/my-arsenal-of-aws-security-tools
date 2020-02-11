@@ -1,1 +1,2 @@
-Dufflebag;bishopfox/dufflebag;Search exposed EBS volumes for secrets
+aws-logsearch;endgameinc/aws-logsearch;Search AWS CloudWatch logs all at once on the command line.
+Varna;endgameinc/varna;Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
