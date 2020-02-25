@@ -1,2 +1,1 @@
-aws-logsearch;endgameinc/aws-logsearch;Search AWS CloudWatch logs all at once on the command line.
-Varna;endgameinc/varna;Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
+aws-auto-remediate;servian/aws-auto-remediate;Open source application to instantly remediate common security issues through the use of AWS Config 
