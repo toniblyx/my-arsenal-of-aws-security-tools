@@ -1,4 +1,16 @@
-## CONTRIBUTE
+
+## Table of Contents
+
+- [Contribute](#contribute)
+- [Defensive](#defensive-hardening-security-assessment-and-inventory)
+- [Offensive](#offensive)
+- [Continuous Security Auditing](#continuous-security-auditing)
+- [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
+- [S3 Buckets Auditing](#s3-buckets-auditing)
+- [Training](#training)
+- [Other interesting tools/code](#other-interesting-tools/code)
+
+## Contribute
 Do you want to contribute to this list? Feel free to send a PR and make sure your tool is [Open Source](https://en.wikipedia.org/wiki/Open_source).
 
 
