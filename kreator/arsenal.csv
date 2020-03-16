@@ -1,1 +1,3 @@
-aws-auto-remediate;servian/aws-auto-remediate;Open source application to instantly remediate common security issues through the use of AWS Config 
+ElectricEye;jonrau1/ElectricEye;Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability
+attack_range;splunk/attack_range;A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
+teh_s3_bucketeers;tomdev/teh_s3_bucketeers;
