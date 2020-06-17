@@ -1,5 +1,1 @@
-iam-policy-generator;aletheia/iam-policy-generator;A simple library to generate IAM policy statements with no need to remember all the actions APIs
-whispers;Skyscanner/whispers;Identify hardcoded secrets and dangerous behaviours
-panther-labs;panther-labs/panther;Detect threats with log data and improve cloud security posture
-SkyWrapper;cyberark/SkyWrapper;SkyWrapper helps to discover suspicious creation forms and uses of temporary tokens in AWS
-breaking-and-pwning-apps-and-servers-aws-azure-training;appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training;Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training
+cloudformation-guard;aws-cloudformation/cloudformation-guard;A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax.
