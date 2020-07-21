@@ -1,1 +1,2 @@
-aws-incident-response;easttimor/aws-incident-response;This page is a collection of useful things to look for in CloudTrail using Athena for AWS incident response
+aws-recon;darkbitio/aws-recon;Multi-threaded AWS inventory collection tool
+cloud-forensics-utils;google/cloud-forensics-utils;Python library to carry out DFIR analysis on the Cloud 
