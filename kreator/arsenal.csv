@@ -1,2 +1,3 @@
-aws-recon;darkbitio/aws-recon;Multi-threaded AWS inventory collection tool
-cloud-forensics-utils;google/cloud-forensics-utils;Python library to carry out DFIR analysis on the Cloud 
+aws-fast-fixes;WarnerMedia/aws-fast-fixes;Scripts to quickly fix security and compliance issues
+aws_exposable_resources;SummitRoute/aws_exposable_resources;Resource types that can be publicly exposed on AWS 
+SyntheticSun;jonrau1/SyntheticSun;a defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to continuously prevent, detect and respond to threats
