@@ -1,3 +1,1 @@
-aws-fast-fixes;WarnerMedia/aws-fast-fixes;Scripts to quickly fix security and compliance issues
-aws_exposable_resources;SummitRoute/aws_exposable_resources;Resource types that can be publicly exposed on AWS 
-SyntheticSun;jonrau1/SyntheticSun;a defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to continuously prevent, detect and respond to threats
+festin;cr0hn/festin;S3 bucket weakness discovery
