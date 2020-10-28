@@ -9,7 +9,7 @@
 - [Development Security](#development-security)
 - [S3 Buckets Auditing](#s3-buckets-auditing)
 - [Training](#training)
-- [Other interesting tools/code](#other-interesting-tools/code)
+- [Other interesting tools/code](#other-interesting-toolscode)
 
 ## Contribute
 Do you want to contribute to this list? Feel free to send a PR and make sure your tool is [Open Source](https://en.wikipedia.org/wiki/Open_source).
