@@ -224,6 +224,7 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * [https://github.com/thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker)
 
 **More Resources:**
+
 * **asecure.cloud** [https://github.com/asecure.cloud](https://github.com/asecure.cloud) A repository of cutomizable AWS security configurations (Cloudformation and CLI templates)
 * **s3-leaks** [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded
 * **Model Risk AWS** [https://magoo.github.io/model-risk-aws/](https://magoo.github.io/model-risk-aws/) - POC about probabilistic risk model for AWS
@@ -231,3 +232,5 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * **hoenybuckets** [https://github.com/honey-buckets/](https://github.com/honey-buckets/)
 * **thebuckhacker** [https://github.com/thebuckhacker](https://github.com/thebuckhacker)
 * **buckets.grayhatwarfare** [https://github.com/buckets.grayhatwarfare](https://github.com/buckets.grayhatwarfare)
+* **Cloud Security Newsletter by Marco Lancini** [https://cloudseclist.com/](https://cloudseclist.com/)
+* **Cloud Security Podcast by Hashish Rajan** [www.cloudsecuritypodcast.tv](www.cloudsecuritypodcast.tv)
