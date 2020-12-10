@@ -233,4 +233,4 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * **thebuckhacker** [https://github.com/thebuckhacker](https://github.com/thebuckhacker)
 * **buckets.grayhatwarfare** [https://github.com/buckets.grayhatwarfare](https://github.com/buckets.grayhatwarfare)
 * **Cloud Security Newsletter by Marco Lancini** [https://cloudseclist.com/](https://cloudseclist.com/)
-* **Cloud Security Podcast by Hashish Rajan** [https://www.cloudsecuritypodcast.tv](www.cloudsecuritypodcast.tv)
+* **Cloud Security Podcast by Ashish Rajan** [https://www.cloudsecuritypodcast.tv](www.cloudsecuritypodcast.tv)
