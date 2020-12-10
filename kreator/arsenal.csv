@@ -1,2 +1,2 @@
-Aaia;rams3sh/Aaia;AWS Identity and Access Management Visualizer and Anomaly Finder
-CloudBrute;0xsha/cloudbrute;A tool to find a company (target) infrastructure, files, and apps on the top cloud providers
+s3_objects_check;nccgroup/s3_objects_check;Whitebox evaluation of effective S3 object permissions, to identify publicly accessible files. 
+IAMFinder;prisma-cloud/IAMFinder;Enumerates and finds users and IAM roles in a target AWS account
