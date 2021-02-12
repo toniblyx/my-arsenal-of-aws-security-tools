@@ -1,1 +1,2 @@
-PrismX;omaidf/PrismX;Cloud Security Dashboard for AWS - based on ScoutSuite
+iamlive;iann0036/iamlive;Generate a basic IAM policy from AWS client-side monitoring (CSM)
+aws-allowlister;salesforce/aws-allowlister;Automatically compile an AWS Service Control Policy that ONLY allows AWS services that are compliant with your preferred compliance frameworks.
