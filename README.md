@@ -244,4 +244,5 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * **buckets.grayhatwarfare** [https://github.com/buckets.grayhatwarfare](https://github.com/buckets.grayhatwarfare)
 * **Cloud Security Newsletter by Marco Lancini** [https://cloudseclist.com/](https://cloudseclist.com/)
 * **Cloud Security Podcast by Ashish Rajan** [https://www.cloudsecuritypodcast.tv](www.cloudsecuritypodcast.tv)
-* **AWS Security Primer By Michael Wittig** [https://cloudonaut.io/aws-security-primer/](https://cloudonaut.io/aws-security-primer/)
+* **AWS Security Primer By Michael Wittig ** [https://cloudonaut.io/aws-security-primer/](https://cloudonaut.io/aws-security-primer/)
+* **Hacking The Cloud ** [https://hackingthe.cloud/](https://hackingthe.cloud/)
