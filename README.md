@@ -250,7 +250,7 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * **s3-leaks** [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded
 * **Model Risk AWS** [https://magoo.github.io/model-risk-aws/](https://magoo.github.io/model-risk-aws/) - POC about probabilistic risk model for AWS
 * **asecure.cloud** [https://asecure.cloud/](https://asecure.cloud/) - a great place for security resources regarding AWS Security.
-* **hoenybuckets** [https://github.com/honey-buckets/](https://github.com/honey-buckets/)
+* **honeybuckets** [https://github.com/honey-buckets/](https://github.com/honey-buckets/)
 * **thebuckhacker** [https://github.com/thebuckhacker](https://github.com/thebuckhacker)
 * **buckets.grayhatwarfare** [https://github.com/buckets.grayhatwarfare](https://github.com/buckets.grayhatwarfare)
 * **Cloud Security Newsletter by Marco Lancini** [https://cloudseclist.com/](https://cloudseclist.com/)
