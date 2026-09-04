@@ -88,7 +88,6 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 | **[Cynative](https://github.com/cynative/cynative)** | Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub & GitLab). | [![stars](https://badgen.net/github/stars/cynative/cynative)](https://badgen.net/github/stars/cynative/cynative) | [![contributors](https://badgen.net/github/contributors/cynative/cynative)](https://badgen.net/github/contributors/cynative/cynative) [![watchers](https://badgen.net/github/watchers/cynative/cynative)](https://badgen.net/github/watchers/cynative/cynative) [![last-commit](https://badgen.net/github/last-commit/cynative/cynative)](https://badgen.net/github/last-commit/cynative/cynative) [![open-issues](https://badgen.net/github/open-issues/cynative/cynative)](https://badgen.net/github/open-issues/cynative/cynative) [![closed-issues](https://badgen.net/github/closed-issues/cynative/cynative)](https://badgen.net/github/closed-issues/cynative/cynative) |
 
 
-
 ## Offensive
 | Name | Description | Popularity | Metadata |
 | ---------- | :---------- | :----------: | :----------: |
