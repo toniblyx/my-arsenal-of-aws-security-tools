@@ -264,6 +264,7 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * [https://breachinsider.com/honey-buckets/](https://breachinsider.com/honey-buckets/)
 * [https://github.com/0x4D31/honeyLambda](https://github.com/0x4D31/honeyLambda)
 * [https://github.com/thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker)
+* [https://github.com/beamreach-ai/compass](https://github.com/beamreach-ai/compass)
 
 **More Resources:**
 
